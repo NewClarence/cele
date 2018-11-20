@@ -1,5 +1,5 @@
 # celery+redis实现定时任务
-*celery和kombu版本不一致会抛异常*
+*celery和kombu版本不一致会抛异常*<br>
 KeyError: 'async'<br>
 AttributeError: asyn<br>
 
